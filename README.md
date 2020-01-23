@@ -9,4 +9,4 @@
 
 5. Make a folder car_image and image_prediction_original_4bit, image_prediction_radi_4bit and image_radi_train200_test50_4bit_3class folder put inside the car_image folder.
 
-6. For deep learning model check .ip
+6. For deep learning model check CNN_Car_Model_Classification.ipynb
