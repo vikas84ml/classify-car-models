@@ -8,3 +8,5 @@
 4. For training and testing extract the image_radi_train200_test50_4bit_3class.zip file. 
 
 5. Make a folder car_image and image_prediction_original_4bit, image_prediction_radi_4bit and image_radi_train200_test50_4bit_3class folder put inside the car_image folder.
+
+6. For deep learning model check .ip
